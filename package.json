@@ -1,0 +1,25 @@
+{
+  "name": "examen_aimar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimargarciacebanc-ux/EXAMEN_AIMAR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aimargarciacebanc-ux/EXAMEN_AIMAR/issues"
+  },
+  "homepage": "https://github.com/aimargarciacebanc-ux/EXAMEN_AIMAR#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "picocolors": "^1.1.1"
+  }
+}
